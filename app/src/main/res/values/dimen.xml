@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- INICIO VENTANAS DEL LOGIN -->
+    <!-- TAMAÑO DEL TEXTO TITULO -->
+    <dimen name="dimen_txt_text_title">35sp</dimen>
+
+    <!-- -->
+    <dimen name="txt_text_option_menu">16sp</dimen>
+    <dimen name="txt_menu_option_size">100dp</dimen>
+
+    <!-- TAMAÑO DE LETRA DE HINT (TEXTO) -->
+    <dimen name="dimen_txt_cajasTextoLogin">18sp</dimen>
+
+    <!-- TAMAÑO DE ALTO DE LAS CAJAS DE TEXTO -->
+    <dimen name="dimen_txt_Tamanio_Alto_Caja_Texto">50dp</dimen>
+
+    <!-- TAMAÑO DE BORDE DE LAS CAJAS DE TEXTO -->
+    <dimen name="dimen_Borde_Caja_Texto">30dp</dimen>
+
+    <!-- TAMAÑO DEL BOTON DE REGISTRO -->
+    <dimen name="dimen_btn_Registro">15dp</dimen>
+
+    <!-- TAMAÑO DE TEXTO DE, SI NO TIENES CUENTA -->
+    <dimen name="dimen_txt_No_Tienes_Cuenta">16sp</dimen>
+
+    <!-- TAMAÑO DE TEXTO DE, REGISTRATE AQUI -->
+    <dimen name="dimen_txt_Registrate_Aqui">20sp</dimen>
+    <!-- FIN VENTANAS LOGIN -->
+
+
+
+    <!-- INICIO DE LA VENTANA REGISTRO -->
+    <!-- TAMAÑO DEL TEXTO TITULO -->
+    <dimen name="dimen_txt_text_title_registro">35sp</dimen>
+
+    <!-- TAMAÑO DE LETRA DE HINT (TEXTO) -->
+    <dimen name="dimen_txt_cajasTextoRegistro">18sp</dimen>
+
+    <!-- TAMAÑO DE TEXTO DE GENERO -->
+    <dimen name="dimen_txt_size_genero">18sp</dimen>
+
+    <!-- DIMENSION DE LOS RADIOBUTTONS -->
+    <dimen name="dimen_Text_R">18sp</dimen>
+
+    <!-- DIMENSION PARA EL TEXTO TERMINOS Y CONDICIONES -->
+    <dimen name="dimen_txt_Term_Cond">15dp</dimen>
+    <!-- FIN DE LA VENTANA REGISTRO -->
+
+</resources>

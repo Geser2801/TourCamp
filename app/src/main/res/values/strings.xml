@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Tour Camp</string>
+
+    <!-- INICIO VENTANA DE LOGIN -->
+    <!--NOMBRE O TITULO-->
+    <string name="str_txt_iniciarS">Iniciar Sesión</string>
+
+    <!-- NOMBRE PARA EL CAMPO, EMAIL -->
+    <string name="str_txt_Email">Email</string>
+
+    <!-- NOMBRE PARA EL CAMPO, CONTRASEÑA -->
+    <string name="str_txt_Contraseña">Contraseña</string>
+
+    <!-- TITULO DE REGISTRATE AQUI -->
+    <string name="txt_Registrate_Aqui">Registrate Aqui</string>
+
+    <!-- TITULO DE NO TIENES CUENTA -->
+    <string name="txt_No_Tienes_Cuenta">Si no tienes cuenta, registrate aqui</string>
+    <!-- FIN VENTANA DE LOGIN -->
+
+
+
+    <!-- INICIO VENTANA DE REGISTRO -->
+    <!-- NOMBRE PARA EL CAMPO, TITULO -->
+    <string name="str_txt_Registrarse">Registrarse</string>
+
+    <!-- NOMBRE PARA EL CAMPO, NOMBRE -->
+    <string name="str_txt_Nombre_Registro">Nombre</string>
+
+    <!-- NOMBRE PARA EL CAMPO, APELLIDO PATERNO-->
+    <string name="str_txt_ApellidoP">Apellido Paterno</string>
+
+    <!-- NOMBRE PARA EL CAMPO, APELLIDO MATERNO -->
+    <string name="str_txt_ApellidoM">Apellido Materno</string>
+
+    <!-- NOMBRE PARA EL CAMPO, TEXTO GENERO -->
+    <string name="str_txt_Genero">Genero</string>
+
+    <!-- NOMBRE PARA EL CAMPO, GENERO MASCULINO -->
+    <string name="str_rb_Masculino">Masculino</string>
+
+    <!-- NOMBRE PARA EL CAMPO, GENERO FEMENINO -->
+    <string name="str_rb_Femenino">Femenino</string>
+
+    <!-- NOMBRE PARA EL CAMPO, EMAIL -->
+    <string name="str_txt_Email_Registro">Email</string>
+
+    <!-- NOMBRE PARA EL CAMPO, CONTRASEÑA -->
+    <string name="str_txt_Contraseña_Registro">Contraseña</string>
+
+    <!-- NOMBRE PARA EL CAMPO, CONFIRMAR CONTRASEÑA -->
+    <string name="str_txt_Confirmar_Contraseña_Registro">Confirmar Contraseña</string>
+
+    <!-- NOMBRE PARA EL TEXTO DE TERMINOS Y CONDICIONES -->
+    <string name="str_txt_Term_Condi">Al registrarte aceptas que te robemos todos tus datos con nuestra app :v</string>
+    <!-- FIN VENTANA DE REGISTRO -->
+
+</resources>
